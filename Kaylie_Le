@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Xin chào! Tôi là Trà My 👋</h1>
+  <p>Tôi yêu nhiếp ảnh, dữ liệu và kể chuyện bằng hình ảnh.</p>
+
+  <h2>✨ Dự án</h2>
+  <ul>
+    <li><a href="https://github.com/tramylttm2210/tea-tarot">🍵 Tea Tarot</a></li>
+    <li><a href="https://github.com/tramylttm2210/mproject">🎥 M Project: Visual Diary</a></li>
+  </ul>
+
+  <h2>📫 Liên hệ</h2>
+  <p>Email: tramy@example.com</p>
+</body>
+</html>
